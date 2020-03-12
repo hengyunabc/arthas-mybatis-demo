@@ -403,9 +403,6 @@ public final class StringBuilder
 
     @Override
     public String toString() {
-        // Create a copy, don't share the array
-//        return new String(value, 0, count);
-     // Create a copy, don't share the array
         String result = new String(value, 0, count);
         if(result.contains("Preparing:")) {
             System.err.println(result);
