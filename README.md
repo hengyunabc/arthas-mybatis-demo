@@ -6,7 +6,7 @@
 
 * [mybatis-spring-boot-sample-xml](https://github.com/mybatis/spring-boot-starter/tree/mybatis-spring-boot-2.1.2/mybatis-spring-boot-samples/mybatis-spring-boot-sample-xml)
 
-PDF： [使用Arthas抽丝剥茧深入应用](https://github.com/hengyunabc/dubbo-arthas-demo/blob/master/使用Arthas抽丝剥茧深入应用.pdf)
+PDF： [使用Arthas抽丝剥茧深入应用](https://github.com/hengyunabc/arthas-mybatis-demo/blob/master/使用Arthas抽丝剥茧深入应用.pdf)
 
 ## 相关链接
 * https://github.com/alibaba/arthas
